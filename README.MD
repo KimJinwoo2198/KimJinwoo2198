@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=BattleBotDev&fontSize=70&animation=twinkling)
 
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
+<p align="center">BattleBot Dev</p>
 
 <h3 align="center">🛠 Using Language 🛠</h3>
 
