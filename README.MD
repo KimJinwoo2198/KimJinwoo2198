@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mongodb-E6B91E?style=flat-square&logo=Mongodb&logoColor=white"/></a>&nbsp
 </p>
-
 <br>
 
 <center> This is me </center>
