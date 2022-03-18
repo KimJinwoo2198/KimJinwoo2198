@@ -21,10 +21,8 @@
 </p>
 <br>
 <center> This is me </center>
-
 [BattleBot Main Page](https://battlebot.kr)
 <br>
-
 [Team Archive Discord Server](https://discord.gg/WtGq7D7BZm)
 
 [![BattleBotDev GitHub stats](https://github-readme-stats.vercel.app/api?username=battlebotdev)](https://github.com/battlebotdev/github-readme-stats)
