@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=BattleBotDev&fontSize=70&animation=twinkling)
 
-# BattleBot Dev Name=
+# BattleBot Dev Name=김진우
 
 <h3 align="center">🛠 Using Language 🛠</h3>
 
