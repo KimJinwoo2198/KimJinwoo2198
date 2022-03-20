@@ -23,7 +23,6 @@
 <center> This is me </center>
 
 [BattleBot Main Page](https://battlebot.kr)
-
 <br>
 
 [Team Archive Discord Server](https://discord.gg/WtGq7D7BZm)
