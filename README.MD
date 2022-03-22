@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=BattleBotDev&fontSize=70&animation=twinkling)
 # BattleBot Dev
 <h3 align="center">🛠 Using Language 🛠</h3>
-<p align="center"> 한번이라도 사용해본 언어 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
