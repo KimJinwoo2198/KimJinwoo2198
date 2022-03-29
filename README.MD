@@ -20,7 +20,6 @@
 [BattleBot Main Page](https://battlebot.kr)
 
 [Team Archive Discord Server](https://discord.gg/WtGq7D7BZm)
-
 [Archive Main Page](https://archiver.me)
 
 [![BattleBotDev GitHub stats](https://github-readme-stats.vercel.app/api?username=battlebotdev)](https://github.com/battlebotdev/github-readme-stats)
