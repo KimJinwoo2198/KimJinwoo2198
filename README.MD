@@ -29,3 +29,12 @@
 [Archive Main Page](https://archiver.me)
 
 [![BattleBotDev GitHub stats](https://github-readme-stats.vercel.app/api?username=battlebotdev)](https://github.com/battlebotdev/github-readme-stats)
+
+### Content Us
+<ul>
+  <li><a href="mailto:kimjw2198@gmail.com">
+    Personal Gmail: kimjw2198@gmail.com
+  </a></li><li><a href="mailto:admin@battlebot.kr">
+    Main mail: admin@battlebot.kr
+  </a></li>
+</ul>
