@@ -17,7 +17,7 @@
 
 ![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=battlebotdev&theme=onedark)
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=battlebotdev&theme=tokyonight&layout=compact)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=samsunghappytree123&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
 
 <br>
 <center> This is me </center>
