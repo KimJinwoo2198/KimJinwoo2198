@@ -28,7 +28,7 @@
 
 [Archive Main Page](https://archiver.me)
 
-[![BattleBotDev GitHub stats](https://github-readme-stats.vercel.app/api?username=battlebotdev)](https://github.com/battlebotdev/github-readme-stats)
+![깃허브 스탯](https://github-readme-stats.vercel.app/api?username=battlebotdev&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ### Content Us
 <ul>
