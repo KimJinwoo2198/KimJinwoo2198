@@ -35,6 +35,6 @@
   <li><a href="mailto:kimjw2198@gmail.com">
     Personal Gmail: kimjw2198@gmail.com
   </a></li><li><a href="mailto:admin@battlebot.kr">
-    Main mail: admin@battlebot.kr
+    Team mail: admin@battlebot.kr
   </a></li>
 </ul>
