@@ -22,11 +22,11 @@
 <br>
 <center> This is me </center>
 
-[BattleBot Main Page](https://battlebot.kr)
+[BattleBot Main Page](https://battlebot.kr) CEO, DEV
 
-[Team Archive Discord Server](https://discord.gg/WtGq7D7BZm)
+[Team Archive Discord Server](https://discord.gg/WtGq7D7BZm) CEO, DEV
 
-[Archive Main Page](https://archiver.me)
+[Archive Main Page](https://archiver.me) CEO
 
 ![깃허브 스탯](https://github-readme-stats.vercel.app/api?username=battlebotdev&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
