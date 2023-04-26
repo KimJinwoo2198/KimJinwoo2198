@@ -39,4 +39,9 @@
   </a></li>
 </ul>
 
-<codersrank-summary username="battlebotdev"></codersrank-summary>
+
+<div align="center">
+    <a href="https://profile.codersrank.io/user/ajb3296">
+        <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=battlebotdev&branding=false" width="400"/>
+    </a>
+</div>
