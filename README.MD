@@ -38,3 +38,5 @@
     Team mail: admin@battlebot.kr
   </a></li>
 </ul>
+
+<codersrank-summary username="battlebotdev"></codersrank-summary>
