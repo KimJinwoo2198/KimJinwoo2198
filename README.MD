@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=BattleBotDev&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=Kim%Jin&woo&fontSize=75&fontAlign=50&fontAlignY=70&fontColor=000000)
 # BattleBot Dev
 <h3 align="center">🛠 Using Language 🛠</h3>
 <p align="center">
