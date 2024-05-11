@@ -17,6 +17,8 @@
 
 ![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=KimJinwoo2198&theme=onedark)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjw0628)](https://solved.ac/kimjw0628)
+
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=KimJinwoo2198&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
 
 <br>
