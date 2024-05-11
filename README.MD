@@ -19,8 +19,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjw0628)](https://solved.ac/kimjw0628)
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=KimJinwoo2198&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
-
 <br>
 <center> This is me </center>
 
@@ -32,7 +30,6 @@
 
 [AutoMSG Discord](https://automsg.xyz) CEO, DEV
 
-![깃허브 스탯](https://github-readme-stats.vercel.app/api?username=KimJinwoo2198&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ### Content Us
 <ul>
   <li><a href="mailto:kimjw2198@gmail.com">
