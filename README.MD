@@ -18,6 +18,7 @@
 ![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=KimJinwoo2198&theme=onedark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjw0628)](https://solved.ac/kimjw0628)
+<a href="https://opgc.me/#/users/Kimjinwoo2198" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/Kimjinwoo2198/tag/?theme=basic" /></a>
 
 <br>
 <center> This is me </center>
