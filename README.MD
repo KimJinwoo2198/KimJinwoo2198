@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=Hi!%20I%27m%20Kim%20Jinwoo%20&fontSize=75&fontAlign=50&fontAlignY=70&fontColor=ffffff)
 # Jinwoo Kim
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=KimJinwoo2198&data=followers,repositories,stars,commits)](https://github.com/KimJinwoo2198)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjw0628)](https://solved.ac/kimjw0628)
 <a href="https://opgc.me/#/users/Kimjinwoo2198" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/Kimjinwoo2198/tag/?theme=basic" /></a>
 
