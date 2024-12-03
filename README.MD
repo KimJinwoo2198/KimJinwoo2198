@@ -14,7 +14,7 @@
 ### Education  
 - **Myeongryun Elementary School** Graduate  
 - **Dongnae Middle School** Graduate  
-- Currently enrolled at **Geumjeong High School**  
+- Currently enrolled at **Keumjeong High School**  
 
 ---
 
